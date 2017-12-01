@@ -7,4 +7,4 @@ Kill List
 * Bad variable names
 * Sloppy formatting and no commenting
 
-this sucks
+this sucks part 2
